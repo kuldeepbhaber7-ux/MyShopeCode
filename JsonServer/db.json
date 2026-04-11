@@ -1,0 +1,284 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Smartphone",
+      "price": 15000,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+    {
+      "id": "2",
+      "name": "Laptop",
+      "price": 55000,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    },
+    {
+      "id": "3",
+      "name": "Headphones",
+      "price": 2000,
+      "category": "electronics",
+      "image": "https://source.unsplash.com/600x400/?headphones"
+    },
+    {
+      "id": "4",
+      "name": "Smart Watch",
+      "price": 5000,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+    },
+    {
+      "id": "5",
+      "name": "Bluetooth Speaker",
+      "price": 3000,
+      "category": "electronics",
+      "image": "https://source.unsplash.com/600x400/?speaker"
+    },
+    {
+      "id": "6",
+      "name": "Gaming Mouse",
+      "price": 1200,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46"
+    },
+    {
+      "id": "7",
+      "name": "Face Cream",
+      "price": 350,
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908"
+    },
+    {
+      "id": "8",
+      "name": "Perfume",
+      "price": 899,
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f"
+    },
+    {
+      "id": "9",
+      "name": "Makeup Kit",
+      "price": 1500,
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796"
+    },
+    {
+      "id": "10",
+      "name": "Lipstick Set",
+      "price": 499,
+      "category": "beauty",
+      "image": "https://source.unsplash.com/600x400/?lipstick"
+    },
+    {
+      "id": "11",
+      "name": "Shampoo",
+      "price": 250,
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be"
+    },
+    {
+      "id": "12",
+      "name": "Face Wash",
+      "price": 199,
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d"
+    },
+    {
+      "id": "13",
+      "name": "Sofa Set",
+      "price": 25000,
+      "category": "home-garden",
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+    },
+    {
+      "id": "14",
+      "name": "Dining Table",
+      "price": 18000,
+      "category": "home-garden",
+      "image": "https://source.unsplash.com/600x400/?dining-table"
+    },
+    {
+      "id": "15",
+      "name": "Garden Chair",
+      "price": 1500,
+      "category": "home-garden",
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6"
+    },
+    {
+      "id": "16",
+      "name": "Bed Frame",
+      "price": 22000,
+      "category": "home-garden",
+      "image": "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+    },
+    {
+      "id": "17",
+      "name": "Study Table",
+      "price": 8000,
+      "category": "home-garden",
+      "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4"
+    },
+    {
+      "id": "18",
+      "name": "Wall Lamp",
+      "price": 1200,
+      "category": "home-garden",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c"
+    },
+    {
+      "id": "19",
+      "name": "Men T-Shirt",
+      "price": 499,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+    },
+    {
+      "id": "20",
+      "name": "Women Dress",
+      "price": 1200,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38"
+    },
+    {
+      "id": "21",
+      "name": "Jeans",
+      "price": 999,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a"
+    },
+    {
+      "id": "22",
+      "name": "Jacket",
+      "price": 2500,
+      "category": "clothing",
+      "image": "https://source.unsplash.com/600x400/?jacket"
+    },
+    {
+      "id": "23",
+      "name": "Hoodie",
+      "price": 1800,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+    },
+    {
+      "id": "24",
+      "name": "Formal Shirt",
+      "price": 799,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1593032465175-481ac7f401a0"
+    },
+    {
+      "id": "25",
+      "name": "Watch",
+      "price": 3000,
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3"
+    },
+    {
+      "id": "26",
+      "name": "Sunglasses",
+      "price": 999,
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083"
+    },
+    {
+      "id": "27",
+      "name": "Wallet",
+      "price": 699,
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633"
+    },
+    {
+      "id": "28",
+      "name": "Belt",
+      "price": 499,
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990"
+    },
+    {
+      "id": "29",
+      "name": "Backpack",
+      "price": 1500,
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+    },
+    {
+      "id": "30",
+      "name": "Running Shoes",
+      "price": 2800,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": "31",
+      "name": "Sneakers",
+      "price": 3200,
+      "category": "clothing",
+      "image": "https://source.unsplash.com/600x400/?sneakers"
+    },
+    {
+      "id": "32",
+      "name": "Leather Jacket",
+      "price": 4500,
+      "category": "clothing",
+      "image": "https://source.unsplash.com/600x400/?leather-jacket"
+    },
+    {
+      "id": "33",
+      "name": "Saree",
+      "price": 2500,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c"
+    },
+    {
+      "id": "34",
+      "name": "Kurti",
+      "price": 1200,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90"
+    },
+    {
+      "id": "35",
+      "name": "Wall Decor",
+      "price": 1500,
+      "category": "home-garden",
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+    },
+    {
+      "id": "36",
+      "name": "Table Lamp",
+      "price": 999,
+      "category": "home-garden",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c"
+    },
+    {
+      "id": "37",
+      "name": "Flower Pot",
+      "price": 499,
+      "category": "home-garden",
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411"
+    },
+    {
+      "id": "38",
+      "name": "Hair Straightener",
+      "price": 1800,
+      "category": "beauty",
+      "image": "https://source.unsplash.com/600x400/?hair-straightener"
+    },
+    {
+      "id": "39",
+      "name": "Face Serum",
+      "price": 699,
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1612810436541-336d9f7c5c3c"
+    },
+    {
+      "id": "40",
+      "name": "Body Spray",
+      "price": 399,
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "name": "Kuldeep", "age": 23, "email": "kuldeep1@example.com" },
+    { "name": "Amit", "age": 25, "email": "amit2@example.com" },
+    { "name": "Krishna", "age": 22, "email": "krishna3@example.com" },
+    { "name": "Riya", "age": 24, "email": "riya4@example.com" },
+    { "name": "Sneha", "age": 21, "email": "sneha5@example.com" },
+    { "name": "Rahul", "age": 26, "email": "rahul6@example.com" },
+    { "name": "Ankit", "age": 23, "email": "ankit7@example.com" },
+    { "name": "Priya", "age": 22, "email": "priya8@example.com" },
+    { "name": "Vikram", "age": 27, "email": "vikram9@example.com" },
+    { "name": "Neha", "age": 24, "email": "neha10@example.com" }
+  ]
+}
